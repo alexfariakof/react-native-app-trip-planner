@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/alex.noeh/Documents/aplTripPlanner/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.m \
+  /Users/alex.noeh/Documents/aplTripPlanner/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.h \
+  /Users/alex.noeh/Documents/aplTripPlanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/alex.noeh/Documents/aplTripPlanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/alex.noeh/Documents/aplTripPlanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/alex.noeh/Documents/aplTripPlanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/alex.noeh/Documents/aplTripPlanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/alex.noeh/Documents/aplTripPlanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/alex.noeh/Documents/aplTripPlanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h

@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import { View, Text, FlatList, TouchableOpacity, Image, AsyncStorage } from 'react-native'
+import { View, Text,  FlatList, TouchableOpacity, Image, AsyncStorage } from 'react-native'
 import TripComponent from './TripComponent/'
 import styles from './styles'
 import assets from './assets'
